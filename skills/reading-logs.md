@@ -63,7 +63,7 @@ grep -i "ERROR" app.log | sort | uniq -c | sort -nr | head -20
 
 ## Utility Scripts
 
-For complex operations, use the scripts in `scripts/`:
+For complex operations, use the scripts in the repo's `scripts/` directory (run from repo root):
 
 ```bash
 # Aggregate errors by frequency

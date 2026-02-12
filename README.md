@@ -240,7 +240,7 @@ This is a content port, not a plugin port. Claude Code has a plugin system with 
 | Session hooks | Not applicable (no hook system) |
 | Sub-agent delegation | Single-agent workflows |
 
-The development methodologies, patterns, and best practices are identical.
+The development methodologies, patterns, and best practices are identical. The left column shows Claude Code-specific features that don't exist in Kiro.
 
 ## Credits
 
